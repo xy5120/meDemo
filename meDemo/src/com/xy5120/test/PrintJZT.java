@@ -28,6 +28,7 @@ public class PrintJZT {
             System.out.println();
         }
 		
+		//这是一个修改
 		//外层控制打几次
 		for (int i = 0; i<index; i++) {
 			//内层控制打印
