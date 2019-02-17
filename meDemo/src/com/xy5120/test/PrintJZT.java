@@ -3,9 +3,9 @@ package com.xy5120.test;
 import java.util.Scanner;
 
 public class PrintJZT {
-
+	
 	public static void main(String[] args) {
-
+//sasd
 		Scanner s=new Scanner(System.in);
 		String line=s.nextLine();
 		printART(Integer.parseInt(line));
