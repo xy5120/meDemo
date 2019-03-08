@@ -1,4 +1,4 @@
-package com.java456.util;
+package com.xy5120.util;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
